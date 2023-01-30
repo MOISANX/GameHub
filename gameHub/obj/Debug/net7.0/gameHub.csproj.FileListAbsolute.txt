@@ -1,0 +1,17 @@
+D:\gameHub\gameHub\gameHub\bin\Debug\net7.0\gameHub.exe
+D:\gameHub\gameHub\gameHub\bin\Debug\net7.0\gameHub.deps.json
+D:\gameHub\gameHub\gameHub\bin\Debug\net7.0\gameHub.runtimeconfig.json
+D:\gameHub\gameHub\gameHub\bin\Debug\net7.0\gameHub.dll
+D:\gameHub\gameHub\gameHub\bin\Debug\net7.0\gameHub.pdb
+D:\gameHub\gameHub\gameHub\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\gameHub\gameHub\gameHub\obj\Debug\net7.0\gameHub.csproj.AssemblyReference.cache
+D:\gameHub\gameHub\gameHub\obj\Debug\net7.0\gameHub.GeneratedMSBuildEditorConfig.editorconfig
+D:\gameHub\gameHub\gameHub\obj\Debug\net7.0\gameHub.AssemblyInfoInputs.cache
+D:\gameHub\gameHub\gameHub\obj\Debug\net7.0\gameHub.AssemblyInfo.cs
+D:\gameHub\gameHub\gameHub\obj\Debug\net7.0\gameHub.csproj.CoreCompileInputs.cache
+D:\gameHub\gameHub\gameHub\obj\Debug\net7.0\gameHub.csproj.CopyComplete
+D:\gameHub\gameHub\gameHub\obj\Debug\net7.0\gameHub.dll
+D:\gameHub\gameHub\gameHub\obj\Debug\net7.0\refint\gameHub.dll
+D:\gameHub\gameHub\gameHub\obj\Debug\net7.0\gameHub.pdb
+D:\gameHub\gameHub\gameHub\obj\Debug\net7.0\gameHub.genruntimeconfig.cache
+D:\gameHub\gameHub\gameHub\obj\Debug\net7.0\ref\gameHub.dll
